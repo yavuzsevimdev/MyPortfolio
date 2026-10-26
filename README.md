@@ -1,6 +1,3 @@
-<p align="center">
-<img width="100%" alt="MyPortfolio" src="BANNER_GORSEL_LINKI" />
-</p>
 
 <h1 align="center">
 💼 MyPortfolio
